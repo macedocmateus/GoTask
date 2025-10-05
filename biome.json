@@ -17,7 +17,8 @@
             "suspicious": {
                 "noConsole": "warn",
                 "noExplicitAny": "warn",
-                "noCommentText": "warn"
+                "noCommentText": "warn",
+                "noUnknownAtRules": "warn"
             },
             "complexity": {
                 "noUselessConstructor": "warn",
